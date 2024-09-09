@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/CONTROLLER/Chuyenmanhinh.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/HOCVIENDAO.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/BEAN/LopHPbean.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/THONGKEDAO.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/BEAN/Danhmuc.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/KhoahocJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/GiaovienJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/CONTROLLER/QuanLyThongKeController.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/COSODAO.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/SERVICE/ThongKeService.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/GIAOVIENDAO.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/DANGKYDAO.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/Dangnhap.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/LOAIHINHDAO.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/Main.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/LopHPJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/BEAN/Thoigianbean.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/DAO/THONGKEDAOImpl.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/Connection/Connect.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/DangkyJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/HocvienJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/TrangchuJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/VIEW/ThongkeJP.java</file>
+            <file>file:/D:/DAIHOC/THNN/QuanLyHocVien/src/SERVICE/ThongKeServiceImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
