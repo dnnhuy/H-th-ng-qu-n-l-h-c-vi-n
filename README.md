@@ -15,3 +15,17 @@ Dữ liệu bao gồm 9 thực thể, 10 bảng.
 # CÔNG CỤ
 Hệ thống được xây dựng bằng ngôn ngữ Java với phần mềm Apache Netbean IDE 16
 
+# QUY TRÌNH
+## Phân tích và thiết kế cơ sở dữ liệu
+- Khảo sát hiện trạng và nhu cầu.
+- Phân tích cơ sở dữ liệu.
+- Thiết kế cơ sở dữ liệu.
+- Thiết kế mô hình xử lý dữ liệu.
+- Cài đặt cơ sở dữ liệu.
+
+## Thiết kế giao diện và cài đặt hệ thống
+- Thiết kế giao diện.
+- Cài đặt các chức năng (thêm, sửa, xóa).
+- Kết nối cơ sở dữ liệu.
+- Kiểm thử các ràng buộc toàn vẹn.
+
